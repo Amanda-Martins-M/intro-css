@@ -1,0 +1,16 @@
+body{ 
+    background-color: rgb(239, 234, 189);
+    font-family: Verdana, Geneva, Tahoma, sans-serif,;
+}
+p{
+    background-color: rgb(226, 150, 123);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    text-align: justify;
+    text-decoration:underline;
+}
+h1{
+    color:rgb(164, 83, 53);
+    font-family: 'Arial Black', Gadget, sans-serif;
+    text-align: center;
+}
